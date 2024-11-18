@@ -1,4 +1,4 @@
-# api_project_1
+# Newsify
 
 A new Flutter project.
 
