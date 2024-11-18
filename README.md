@@ -2,15 +2,14 @@
 
 A new Flutter project.
 
-## Getting Started
+##  A News App
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Key Features:
+🌟 View Headlines: Stay updated with the latest news, sorted by news channels.
+🌍 Country-Wise Headlines: Top headlines from various countries.
+🔍 Category-Specific News: Stay informed on topics you care about, like technology and science.
+💻 User-Friendly UI: Focused on making the interface both attractive and easy to navigate.
+Tech Stack:
+API: Integrated newsapi.org
+ with http requests to fetch real-time data.
+Dependencies: Utilized spinkit for loading animations and url_launcher for link navigation.
