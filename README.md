@@ -1,7 +1,5 @@
 # Newsify
 
-A new Flutter project.
-
 ##  A News App
 
 Key Features:
